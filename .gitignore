@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# IDE
+
+
+# # 
+#     "data": {
+#         "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc5NTMzMTQxMywianRpIjoiMjM5MWY0NTMtZjg2OC00OWI5LWIyNTItNzY5NDY1MWY0N2EyIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6IjEiLCJuYmYiOjE3OTUzMzE0MTMsImNzcmYiOiJhZGY1MzQ0MC1kNjQ5LTQ5MzMtOWQxYS0wM2I2YjVhZmJjZDYiLCJleHAiOjE3OTUzMzIzMTMsImNvbXBhbnlfaWQiOjEsInJvbGUiOiJjb21wYW55X2FkbWluIn0.LckScmvA78juy-4nGxtXEkC9VPtKKg0Krle_U_huMl4",
+#         "message": "Login successful",
+#         "user": {
+#             "company_id": 1,
+#             "email": "admin@abc.com",
+#             "full_name": "Admin User",
+#             "id": 1,
+#             "role": "company_admin"
+#         }
+#     },
+#     # "status": "success"/
